@@ -1,0 +1,2 @@
+# -Practical_Convolutional_Neural_Networks-Master
+《Practical_Convolutional_Neural_Networks》的练习代码，目的是学习使用TensorFlow构建并运行CNN的技术
